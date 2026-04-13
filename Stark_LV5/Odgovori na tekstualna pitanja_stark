@@ -1,0 +1,14 @@
+Zadatak 1:
+a) Pokrenite skriptu i pogledajte dobiveni dijagram raspršenja. Što primjećujete?
+  Raspršenost zauzetih i slobodnih podataka se poklapa.
+b) Koliko podatkovnih primjera sadrži učitani skup podataka?
+  10129.
+c) Kakva je razdioba podatkovnih primjera po klasama?
+  Room_Occupancy_Count
+  0    8228
+  1    1901
+Zadatak 2:
+e) Što se događa s rezultatima ako se koristi veći odnosno manji broj susjeda?
+  Ako koristimo veći broj susjeda događa se underfitting, a koristmo li manji overfitting. 
+f) Što se događa s rezultatima ako ne koristite skaliranje ulaznih veličina?
+  Točnost pada ako koristimo ne skalirane podatke.

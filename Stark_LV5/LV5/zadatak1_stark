@@ -3,4 +3,6 @@ a) Pokrenite skriptu i pogledajte dobiveni dijagram raspršenja. Što primjećuj
 b) Koliko podatkovnih primjera sadrži učitani skup podataka?
   10129.
 c) Kakva je razdioba podatkovnih primjera po klasama?
-  
+  Room_Occupancy_Count
+  0    8228
+  1    1901

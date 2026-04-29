@@ -1,3 +1,6 @@
 Zadatak 1
   Primjećujemo da se položaj podataka mijenja zbog ninit = 'random'. Mijenjajući K i flagc dobivamo različite oblike. Za flagc = 1 ili 2 dobivamo dobro grupirane podatke dok su za 3 raspršeni.
   Kada je flagc = 4 ili 5 podatci se prikazuju kao okrenuti polumjeseci.
+Zadatak 2
+  Vidimo naglo opadanje inercije do broja 3 kada padanje prestaje biti toliko naglo. Po tome možemo zaključiti da bi optimalan broj klastera bio K = 3.
+

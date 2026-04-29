@@ -1,0 +1,3 @@
+Zadatak 1
+  Primjećujemo da se položaj podataka mijenja zbog ninit = 'random'. Mijenjajući K i flagc dobivamo različite oblike. Za flagc = 1 ili 2 dobivamo dobro grupirane podatke dok su za 3 raspršeni.
+  Kada je flagc = 4 ili 5 podatci se prikazuju kao okrenuti polumjeseci.

@@ -6,4 +6,6 @@ Zadatak 2
 Zadatak 3
   Kada mijenjamo metodu vidimo veliku razliku između ward i single te complete. U wardu su rezultat klasteri različitih veličina, ali se dobiva jednostavan dendrogram.
   Single metoda dobiva jako različit dendrogram koji je čudnog oblika sa čudnim veličinama klastera. Complete metoda također dobiva jedonostavan dendrogram koji je lakše čitati nego u single metodi.
-
+Zadatak 4
+  Smanjenjem klastera, smanjujemo detalje u slici. Na originalnoj slici vidimo nekoliko različitih 'boja' na nebu dok kada stavimo da je broj klastera = 10 smanjuje se na tri. Smanjuje se broj gradijenata. 
+  S 10 klastera imamo kompresiju od 50%.

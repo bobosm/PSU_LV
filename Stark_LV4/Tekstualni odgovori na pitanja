@@ -6,4 +6,5 @@ Zadatak 4
   2) String, float ili integer.
   6) Najčešće imaju 5 sjedala.
 Zadatak 5
+  Povečavanjem broja ulaznih veličina možemo dobiti precizniji model, ali također može dovesti do overfitttinga te zbog greška može porasti.
   

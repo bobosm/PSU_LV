@@ -7,4 +7,5 @@ Zadatak 4
   6) Najčešće imaju 5 sjedala.
 Zadatak 5
   Povečavanjem broja ulaznih veličina možemo dobiti precizniji model, ali također može dovesti do overfitttinga te zbog greška može porasti.
-  
+Zadatak 6
+  Rezultati se nisu značajno promjenili, ali su se promjenili na bolje. R2 score je porastao na 0.83779, MSE je pao na 0.8, a Max error se malo smanjio dok je MAE ostao isti

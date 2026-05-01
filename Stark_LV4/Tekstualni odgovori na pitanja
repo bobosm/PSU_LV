@@ -1,3 +1,9 @@
 Zadatak 3
   Kada povećamo broj uzoraka vidimo da model 15. stupnja sada bolje prati pozadinsku funkciju f. Odnosno u manjem broju uzoraka događa se overfitting. Modelu 2. stupnja u oba slučaja
   događa da se underfitting. Dok je model 6. stupnja u oba slučaja skoro istog oblika kao pozadinska funkcija f. Broj uzoraka koji sam koristio za simalaciju su 50 i 500.
+Zadatak 4
+  1) Dostupno je 6699 automobila u datasetu.
+  2) String, float ili integer.
+  6) Najčešće imaju 5 sjedala.
+Zadatak 5
+  

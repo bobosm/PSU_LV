@@ -18,3 +18,6 @@ Zadatak 3:
     događa se underfitting jer model nije složen. Padaju i točnost i odziv.
   c) Što se događa s rezultatima ako ne koristite skaliranje ulaznih veličina?
     Stablu odluke nije važno jesu li podatci skalirani. Rezulatiti ostaju isti kao i sa skaliranim zadatcima.
+Zadatak 4:
+  Vidimo u rezulatati dosta manji odziv za klasu jedan odnosno u 63% slučajeva je uspio preopznati kada je osoba u prostoriji. Dok je preciznost za klasu jedan na 80%. 
+  To su događa jer su podatci teško odvojivi. Model će rijetko pogriješiti kada kaže da je netko u sobi, ali će propustiti dosta situacija u kojima je u sobi netko bio.  
